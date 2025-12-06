@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .STUDIO one-word domains still available to buy.
 
-This dataset contains 3,098 .STUDIO one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,100 .STUDIO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.STUDIO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=studio-oneword-domains&utm_content=description.top) (3,096) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.STUDIO one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.studio      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.studio      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.studio  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.studio      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.studio    | available | 60       | 2%     | 7      |           |         |         |
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.STUDIO one word domai
 | abatic.studio     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.studio    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.studio   | available | 50       | 1%     | 8      |           |         |         |
-| abc.studio        | available | 102      | 41%    | 3      |           |         |         |
+| abc.studio        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.studio  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.studio  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.studio | available | 56       | 1%     | 10     |           |         |         |
