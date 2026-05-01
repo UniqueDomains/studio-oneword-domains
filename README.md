@@ -1,10 +1,10 @@
-# Available .STUDIO One-Word Domains (8,580)
+# Available .STUDIO One-Word Domains (8,952)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C580%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C952%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .studio one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,580 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,952 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,580 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,952 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/studio`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| BlackFriday.studio | available | $52.98    | —             | 74             | 29     | 12     | namecheap                                    |
-| skills.studio      | resell    | —         | —             | 58             | 47     | 6      | Sav.com, LLC - 23                            |
-| homes.studio       | premium   | $280      | $560          | 86             | 34     | 5      | namecheap                                    |
-| gogreen.studio     | available | $21.99    | —             | 56             | 28     | 8      | name.com                                     |
-| bird.studio        | resell    | —         | —             | 72             | 43     | 4      | NameCheap, Inc.                              |
-| videos.studio      | premium   | $280      | $560          | 52             | 30     | 6      | namecheap                                    |
-| boats.studio       | available | $21.99    | —             | 52             | 24     | 5      | name.com                                     |
-| soft.studio        | resell    | —         | —             | 86             | 33     | 4      | Porkbun LLC                                  |
-| tips.studio        | premium   | $140      | $280          | 80             | 26     | 4      | namecheap                                    |
-| makemoney.studio   | available | $21.99    | —             | 88             | 23     | 10     | name.com                                     |
-| solutions.studio   | resell    | —         | —             | 56             | 31     | 9      | Spaceship, Inc.                              |
-| toys.studio        | premium   | $280      | $560          | 60             | 24     | 4      | namecheap                                    |
-| veterans.studio    | available | $21.99    | —             | 56             | 23     | 8      | name.com                                     |
-| backyard.studio    | resell    | —         | —             | 80             | 27     | 9      | Xiamen ChinaSource Internet Service Co., Ltd |
-| loans.studio       | premium   | $280      | $560          | 58             | 24     | 5      | namecheap                                    |
-| Lions.studio       | available | $52.98    | —             | 72             | 22     | 5      | namecheap                                    |
-| large.studio       | resell    | —         | —             | 82             | 23     | 5      | Sav.com, LLC - 9                             |
-| holidays.studio    | premium   | $280      | $560          | 78             | 23     | 8      | namecheap                                    |
-| Allie.studio       | available | $52.98    | —             | 72             | 21     | 5      | namecheap                                    |
-| makeit.studio      | resell    | —         | —             | 82             | 22     | 7      | Sav.com, LLC - 21                            |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| BlackFriday.studio | available | $52.98    | —             | 74             | 29     | 12     | namecheap                                           |
+| skills.studio      | resell    | —         | —             | 58             | 47     | 6      | Sav.com, LLC - 23                                   |
+| homes.studio       | premium   | $280      | $560          | 86             | 34     | 5      | namecheap                                           |
+| gogreen.studio     | available | $21.99    | —             | 56             | 28     | 8      | name.com                                            |
+| soft.studio        | resell    | —         | —             | 86             | 33     | 4      | Porkbun LLC                                         |
+| videos.studio      | premium   | $280      | $560          | 52             | 30     | 6      | namecheap                                           |
+| boats.studio       | available | $21.99    | —             | 52             | 24     | 5      | name.com                                            |
+| solutions.studio   | resell    | —         | —             | 56             | 31     | 9      | Spaceship, Inc.                                     |
+| tips.studio        | premium   | $140      | $280          | 80             | 26     | 4      | namecheap                                           |
+| makemoney.studio   | available | $21.99    | —             | 88             | 23     | 10     | name.com                                            |
+| backyard.studio    | resell    | —         | —             | 80             | 27     | 9      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| toys.studio        | premium   | $280      | $560          | 60             | 24     | 4      | namecheap                                           |
+| veterans.studio    | available | $21.99    | —             | 56             | 23     | 8      | name.com                                            |
+| large.studio       | resell    | —         | —             | 82             | 23     | 5      | Sav.com, LLC - 9                                    |
+| loans.studio       | premium   | $280      | $560          | 58             | 24     | 5      | namecheap                                           |
+| Allie.studio       | available | $52.98    | —             | 72             | 21     | 5      | namecheap                                           |
+| makeit.studio      | resell    | —         | —             | 82             | 22     | 7      | Sav.com, LLC - 21                                   |
+| holidays.studio    | premium   | $280      | $560          | 78             | 23     | 8      | namecheap                                           |
+| smartest.studio    | available | $21.99    | —             | 64             | 20     | 8      | name.com                                            |
+| networks.studio    | resell    | —         | —             | 60             | 20     | 8      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 8,580 live domains                               |
+| 1,000-row public sample | 8,952 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDIO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDIO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
