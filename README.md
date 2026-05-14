@@ -73,10 +73,10 @@ print(df.head())
 | boats.studio       | available | $21.99    | —             | 52             | 24     | 5      | name.com                                            |
 | solutions.studio   | resell    | —         | —             | 56             | 31     | 9      | Spaceship, Inc.                                     |
 | tips.studio        | premium   | $140      | $280          | 80             | 26     | 4      | namecheap                                           |
-| makemoney.studio   | available | $21.99    | —             | 88             | 23     | 10     | name.com                                            |
+| veterans.studio    | available | $21.99    | —             | 56             | 23     | 8      | name.com                                            |
 | backyard.studio    | resell    | —         | —             | 80             | 27     | 9      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | toys.studio        | premium   | $280      | $560          | 60             | 24     | 4      | namecheap                                           |
-| veterans.studio    | available | $21.99    | —             | 56             | 23     | 8      | name.com                                            |
+| makemoney.studio   | available | $21.99    | —             | 88             | 22     | 10     | name.com                                            |
 | large.studio       | resell    | —         | —             | 82             | 23     | 5      | Sav.com, LLC - 9                                    |
 | loans.studio       | premium   | $280      | $560          | 58             | 24     | 5      | namecheap                                           |
 | Allie.studio       | available | $52.98    | —             | 72             | 21     | 5      | namecheap                                           |
