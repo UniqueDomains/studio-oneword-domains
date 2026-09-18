@@ -1,5 +1,4 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-c894a317-e74d-4ccd-84e8-15e8b3979013,acid.studio,available,,,high,low,4,,,,
 5b7bbcbd-7a23-43b5-95a6-01d81cc22e31,bantoid.studio,available,14.98,52.98,low,low,7,namecheap,,,08/08/2026 14:45
 52ccb84a-af99-4f33-a011-45c00018cd2c,berserk.studio,available,,,high,low,7,,,,
 4146fdc7-d3f4-459b-902f-a5bf8a034a4e,lvi.studio,premium,39,78,low,low,3,namecheap,,,
@@ -23,7 +22,6 @@ f94a9809-4af7-4448-9a5a-1355fed8413f,pinkelephant.studio,available,21.99,,medium
 6f2274de-6888-4958-a942-0b5e32132ca9,motive.studio,available,,,high,low,6,,,,
 aaf09554-dfd0-4a21-ad94-e565aa280b9b,highdefinition.studio,available,21.99,,high,low,15,name.com,,,
 079b7672-06a6-48af-bfed-ff2c076a2bab,weakened.studio,available,21.99,,medium,low,8,name.com,,,
-e637c86f-cbc0-4a19-b216-32422cecd64d,rising.studio,resell,,,medium,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",02/07/2025 15:15,02/07/2026 15:15,
 8921debb-b471-4575-bfd7-97e0b1347b9a,wastebasket.studio,available,21.99,,high,low,11,name.com,,,
 5fb55dbf-f591-4bca-8770-6b25e7ae062d,bayesian.studio,available,14.98,52.98,low,low,8,namecheap,,,09/08/2026 03:13
 9683f250-93fb-4174-9161-5879dad964b3,adsorbable.studio,available,14.98,52.98,low,low,10,namecheap,,,
@@ -60,7 +58,7 @@ a4ebc4e7-6e57-453a-bf95-501a026d9050,solong.studio,available,21.99,,medium,low,7
 7c4066a1-f544-4acd-b442-c4e784bec685,endorse.studio,available,14.98,52.98,medium,low,7,namecheap,,,08/09/2026 09:45
 337e40da-5a02-4850-b408-061e354034d7,tetrad.studio,available,14.98,52.98,low,low,6,namecheap,,,
 f0682b9c-323e-4646-a28e-b8d94a9b76d6,oar.studio,premium,140,280,medium,low,3,namecheap,,,
-26e9b7be-0986-46c2-a959-22f7c1aed9cd,gointo.studio,available,21.99,,high,low,7,name.com,,,
+26e9b7be-0986-46c2-a959-22f7c1aed9cd,gointo.studio,available,17.99,40.99,low,low,7,namesilo,,,16/09/2026 23:51
 7c71a831-46aa-4cb5-88af-8443b4a5a64b,afrikaner.studio,available,14.98,52.98,low,low,9,namecheap,,,
 9d3a1401-a2ee-47c8-9fe5-6bcda04ddeed,virulent.studio,available,14.98,52.98,low,low,8,namecheap,,,
 922605a3-877f-4b63-8b65-56dc4af4146e,giddy.studio,available,14.98,52.98,low,low,5,namecheap,,,
@@ -204,7 +202,6 @@ d856e1a2-c572-4f9b-8e7e-4c3131eae3a1,butthen.studio,available,21.99,,medium,low,
 f332aa2f-f351-47a5-89c4-e39e0d778880,racist.studio,available,14.98,52.98,low,low,6,namecheap,,,
 26f43d87-5d02-48bb-861b-f4ef6c228fbd,MiddleEast.studio,available,21.99,,medium,low,11,name.com,,,
 a5e1d92d-cb4d-4e94-bb16-55bce3658dac,getright.studio,available,21.99,,high,low,9,name.com,,,
-b89d51aa-1054-41ed-bca9-0c099b8ecd80,advantage.studio,resell,,,high,low,9,"Xiamen ChinaSource Internet Service Co., Ltd",07/07/2025 15:15,07/07/2026 15:15,
 de36e554-5f68-4205-b247-3825c08b0a52,comingfromyou.studio,available,21.99,,high,low,15,name.com,,,
 662011da-9614-4bdf-a4fe-1565dba642dc,childofthemanse.studio,available,21.99,,medium,low,18,name.com,,,
 7b577231-1f50-467e-ae0a-d87c48e4164c,arboresque.studio,available,14.98,52.98,low,low,10,namecheap,,,06/08/2026 13:34
@@ -999,3 +996,6 @@ e886bbfa-73d4-4ae5-a1a8-5753d4053a71,comely.studio,available,14.98,52.98,low,low
 ad512ccf-c9f2-4668-9edc-b1d052921222,byfar.studio,available,21.99,,medium,low,6,name.com,,,
 f8413a15-c1e4-46d2-9754-1def83dc45ea,aerobiotic.studio,available,14.98,52.98,low,low,10,namecheap,,,
 9372f166-7051-4667-ba19-964c564b644b,gotobat.studio,available,21.99,,medium,low,9,name.com,,,
+b4c31993-5fa7-4f2f-8755-1df37672c7e1,backtothewall.studio,available,21.99,,medium,low,16,name.com,,,
+02064b0e-473b-40a3-9415-d199e2d136d6,pricetag.studio,available,21.99,,medium,low,9,name.com,,,
+9553132b-5d6f-49b5-8c1b-86f79f31f615,cotyloid.studio,available,14.98,52.98,low,low,8,namecheap,,,
