@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .studio one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,143 domains · **Median ask:** $25.48 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/studio`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| career.studio      | premium   | $280      | $560          | high           | low    | 6      | namecheap                                    |
-| print.studio       | premium   | $1,750    | $3,500        | high           | medium | 5      | namecheap                                    |
-| motive.studio      | available | —         | —             | high           | low    | 6      | —                                            |
-| affirmative.studio | available | $21.99    | —             | high           | low    | 11     | name.com                                     |
-| truth.studio       | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| woman.studio       | premium   | $140      | $280          | high           | low    | 5      | namecheap                                    |
-| avon.studio        | available | $21.99    | —             | high           | low    | 4      | name.com                                     |
-| log.studio         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| ala.studio         | premium   | $42       | $84           | high           | low    | 3      | namecheap                                    |
-| cock.studio        | available | $21.99    | —             | medium         | low    | 4      | name.com                                     |
-| bank.studio        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| cot.studio         | premium   | $140      | $280          | high           | low    | 3      | namecheap                                    |
-| cxxv.studio        | available | $14.98    | $52.98        | low            | low    | 4      | namecheap                                    |
-| barn.studio        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| don.studio         | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
-| dslr.studio        | available | $21.99    | —             | high           | low    | 4      | name.com                                     |
-| bite.studio        | resell    | —         | —             | medium         | low    | 4      | Squarespace Domains II LLC                   |
-| ear.studio         | premium   | $140      | $280          | high           | low    | 3      | namecheap                                    |
-| giza.studio        | available | $21.99    | —             | high           | low    | 4      | name.com                                     |
-| bomb.studio        | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                              |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| style.studio | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| alky.studio  | available | $14.98    | $52.98        | medium         | low    | 4      | namecheap        |
+| aim.studio   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| ala.studio   | premium   | $42       | $84           | high           | low    | 3      | namecheap        |
+| avon.studio  | available | $21.99    | —             | high           | low    | 4      | name.com         |
+| log.studio   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| bug.studio   | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| bern.studio  | available | $21.99    | —             | high           | low    | 4      | name.com         |
+| bali.studio  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| cot.studio   | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| boob.studio  | available | $21.99    | —             | high           | low    | 4      | name.com         |
+| bank.studio  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| dad.studio   | premium   | $280      | $560          | high           | low    | 3      | namecheap        |
+| clxv.studio  | available | $14.98    | $52.98        | medium         | low    | 4      | namecheap        |
+| barn.studio  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| die.studio   | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap        |
+| cock.studio  | available | $21.99    | —             | high           | low    | 4      | name.com         |
+| bets.studio  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.  |
+| diy.studio   | premium   | $1,750    | $3,500        | high           | low    | 3      | namecheap        |
+| cons.studio  | available | $21.99    | —             | high           | low    | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDIO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDIO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
